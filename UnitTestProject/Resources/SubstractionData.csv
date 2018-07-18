@@ -1,0 +1,5 @@
+firstNum,secondNum,expectedResult
+5,6,-1
+"9","10",-1
+"5.5","1.5",4
+125.1,400.6,-275.5
